@@ -24,6 +24,13 @@ We meet twice a week, taking absolute beginners step by step into the world of p
 - Arithmetic Operators  
 - String Conversion  
 
+### Session 3
+- If Statements (`if`, `elif`, `else`)  
+- Comparison Operators Review  
+- Logical Conditions in Decisions  
+- Even/Odd Number Check  
+- Temperature Example (Practical Application)
+
 (More sessions will be added as we progress 🚀)
 
 ## 🚀 Goal
@@ -31,4 +38,4 @@ By the end of the boot camp, participants will have hands-on experience with Pyt
 
 ## 📝 Note
 - This repository will be updated after every session with the code and exercises we covered.  
-- **Code for Session 1 and Session 2 will be added soon.**
+- **Code for Sessions 1, 2 will be added soon.**
