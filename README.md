@@ -30,6 +30,12 @@ We meet twice a week, taking absolute beginners step by step into the world of p
 - Logical Conditions in Decisions  
 - Even/Odd Number Check  
 - Temperature Example (Practical Application)
+## Session 4
+
+- Account Creation System
+- Password Confirmation
+- Introduction to getpass
+- Simulated Login System (Real-Life Scenario)
 
 (More sessions will be added as we progress 🚀)
 
